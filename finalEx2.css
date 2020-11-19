@@ -1,0 +1,46 @@
+
+body{
+  background-color: rgb(240,240,240);
+}
+ .grid-container1{
+     font-style: italic;
+     font-family: sans-serif;
+
+ }
+ .grid-container{
+  margin-top: 80px;
+     text-align: center;
+     font-style: italic;
+     font-family: sans-serif;
+ }
+
+ .grid-items1{
+   border-radius: 10px;
+     color: red;
+ }
+
+ p {
+   font-style: italic;
+   font-family: serif;
+    margin: 5px;
+    border: 0px solid #999;
+ }
+
+ .grid-items2{
+   border-radius: 10px;
+     font-style: italic;
+     font-family: sans-serif;
+     text-align: center;
+     padding-left: 140px;
+     padding-right: 140px;
+ }
+ .grid-items2 span{
+     color: rgb(45,45,45);
+     font-size: 30px;
+     text-transform: capitalize;
+     font-family: 'Prompt', sans-serif;
+ }
+ .grid-items1 span{
+     color: rgb(45,45,45);
+     font-family: 'Prompt', sans-serif;
+ }
